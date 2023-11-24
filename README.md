@@ -14,6 +14,8 @@ The starterFiles directory refers to the files required to follow my <a href="ht
 ## Complete Project
 
 Includes the complete application, along with 2 jupyter notebooks that will help you design and customize your own image classifying neural networks.
+<br>
+The app is also live and running on Taipy's cloud: https://classifier.taipy.cloud/
 
 ## Requirements
 - The interface of the app was designed with Taipy GUI: https://github.com/Avaiga/taipy
