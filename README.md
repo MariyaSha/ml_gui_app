@@ -25,7 +25,7 @@ Includes the complete application, along with 2 jupyter notebooks that will help
 
 ## Screenshot
 
-<img src="https://github.com/numpy/numpy" width=600px>
+<img src="https://github.com/MariyaSha/ml_gui_app/tree/main/finishedProject/wireframe.png" width=600px>
 
 ## Credits
 
