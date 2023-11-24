@@ -1,5 +1,5 @@
 # Machine Learning GUI App with Taipy and Tensorflow
-simple machine learning image classifier pure Python app for beginners
+simple machine learning image classifier GUI app for beginners
 
 ## Introduction
 
