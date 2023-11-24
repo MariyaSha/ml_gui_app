@@ -11,11 +11,11 @@ In this repository you will find how to create a beautiful GUI application that 
 
 The starterFiles directory refers to the files required to follow my <a href="https://youtu.be/QYreI8wXGwE" target="_blank">video tutorial</a>.
 
-## Complete Project
+## Finished Project
 
-Includes the complete application, along with 2 jupyter notebooks that will help you design and customize your own image classifying neural networks.
+Includes the complete application, along with 2 jupyter notebooks with plenty of information to help you customize your own image classifying neural networks.
 <br>
-The app is also live and running on Taipy's cloud: https://classifier.taipy.cloud/
+The complete app is also live and running on Taipy's cloud: https://classifier.taipy.cloud/
 
 ## Requirements
 - The interface of the app was designed with Taipy GUI: https://github.com/Avaiga/taipy
