@@ -9,7 +9,7 @@ In this repository you will find how to create a beautiful GUI application that 
 
 ## Starter Files
 
-The starterFiles directory refers to the files required to follow my <a href="https://youtu.be/QYreI8wXGwE" target="_blank">video tutorial</a>.
+The starterFiles directory refers to the files required to follow my <a href="https://youtu.be/h0dglh9elCw" target="_blank">video tutorial</a>.
 
 ## Finished Project
 
