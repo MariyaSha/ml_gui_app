@@ -25,9 +25,9 @@ Includes the complete application, along with 2 jupyter notebooks that will help
 
 ## Screenshot
 
-<img src="https://github.com/MariyaSha/ml_gui_app/tree/main/finishedProject/wireframe.png" width=600px>
+<img src="https://raw.githubusercontent.com/MariyaSha/ml_gui_app/main/finishedProject/wireframe.png" width=600px>
 
 ## Credits
 
 - Neural Pattern from: freepik.com
-- Brain Icon from: flaticon.com
+- Brain Icon from: flaticon.cm
