@@ -16,3 +16,8 @@ The starterFiles directory refers to the files required to follow my <a href="ht
 ## Complete Project
 
 Includes the complete application, along with 2 jupyter notebooks that will help you design and customize your own image classifying neural networks.
+
+## Credits
+
+- Neural Pattern from: freepik.com
+- Brain Icon from: flaticon.com
