@@ -7,9 +7,12 @@ simple machine learning image classifier pure Python app for beginners
 
 Folks! in this repository you will slearn how to create a beautiful GUI application that can classify images of animals and vehicles!
 <br>
-(in other words, an interface with a whole bunch of machine learning stuff!)
-<br>
-<br>
-This repository was creates as part of a <a href="https://youtu.be/QYreI8wXGwE" target="_blank">video tutorial</a>.
-<br>
-Otherwise, please refer to the <b>completeProject</b> directory instead of the starterFiles.
+In other words, an interface with a whole bunch of machine learning stuff!
+
+## Starter Files
+
+The starterFiles directory refers to the files required to follow my <a href="https://youtu.be/QYreI8wXGwE" target="_blank">video tutorial</a>.
+
+## Complete Project
+
+Includes the complete application, along with 2 jupyter notebooks that will help you design and customize your own image classifying neural networks.
