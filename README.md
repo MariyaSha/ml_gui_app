@@ -23,6 +23,10 @@ Includes the complete application, along with 2 jupyter notebooks that will help
 - The user provided images were loaded with Pillow: https://github.com/python-pillow/Pillow
 - And Numpy was used to normalize those images: https://github.com/numpy/numpy
 
+## Screenshot
+
+<img src="https://github.com/numpy/numpy" width=600px>
+
 ## Credits
 
 - Neural Pattern from: freepik.com
