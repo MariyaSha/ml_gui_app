@@ -149,8 +149,6 @@ python-slugify==8.0.1
 python-socketio==5.10.0
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
-pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.1
 qtconsole==5.5.0
@@ -181,7 +179,6 @@ tensorboard==2.14.1
 tensorboard-data-server==0.7.2
 tensorflow==2.14.0
 tensorflow-estimator==2.14.0
-tensorflow-intel==2.14.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 terminado==0.18.0
@@ -192,7 +189,6 @@ toolz==0.12.0
 tornado==6.3.3
 traitlets==5.13.0
 Twisted==23.10.0
-twisted-iocpsupport==1.0.4
 types-python-dateutil==2.8.19.14
 typing_extensions==4.8.0
 tzdata==2023.3
